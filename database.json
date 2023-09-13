@@ -14,10 +14,6 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/benco1234/helloWorld_benco1234.git:helloWorld.groovy": [
-      "https://github.com/benco1234/helloWorld_benco1234.git",
-      "helloWorld.groovy"
-    ],
     "https://github.com/benco1234/javaCad_benco1234.git:javaCad.groovy": [
       "https://github.com/benco1234/javaCad_benco1234.git",
       "javaCad.groovy"
