@@ -21,10 +21,6 @@
     "https://github.com/benco1234/BenCondonNametag.git:BenCondonNametag.groovy": [
       "https://github.com/benco1234/BenCondonNametag.git",
       "BenCondonNametag.groovy"
-    ],
-    "https://github.com/benco1234/javaCad_benco1234.git:javaCad.groovy": [
-      "https://github.com/benco1234/javaCad_benco1234.git",
-      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
