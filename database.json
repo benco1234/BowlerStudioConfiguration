@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/benco1234/SoSArduino.git": [
+      "benco1234/SoSArduino",
+      "1696343089111"
+    ],
     "https://github.com/benco1234/javaCad_benco1234.git": [
       "https://github.com/benco1234/javaCad_benco1234.git",
       "1694571600783"
@@ -21,6 +25,10 @@
     "https://github.com/benco1234/BenCondonNametag.git:BenCondonNametag.groovy": [
       "https://github.com/benco1234/BenCondonNametag.git",
       "BenCondonNametag.groovy"
+    ],
+    "https://github.com/benco1234/SoSArduino.git:SoSArduino.ino": [
+      "https://github.com/benco1234/SoSArduino.git",
+      "SoSArduino.ino"
     ]
   },
   "BowlerStudioConfigs": {
